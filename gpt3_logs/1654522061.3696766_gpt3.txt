@@ -1,0 +1,29 @@
+PROMPT:
+
+Write a thorough summary and critical assessment of the argument. The summary should focus on the following point: "<<POINT>>" Your assessment of this point should discuss the strengths and weaknesses of the argument. What was compelling, persuasive, troubling, unclear, or problematic? Choose phrases like “Eligan argues…” throughout to show the writer’s purpose at each point. Write most of the essay in your own words, but consider using the occasional direct quote where the original word choice is critical.
+
+
+
+"Title: ""Wouldn’t We All Cross the Border?"" by Anna Mills
+
+All the disagreement over immigration policy I have been hearing about in the news lately reminds me that while I believe in the rule of law, I feel profoundly uncomfortable with the idea of keeping people out who are desperate to come in. Is illegal immigration actually wrong? Is it unethical to cross a border without permission?
+
+I don’t have a clear vision yet of what the right border policy would be, and I admit that completely open borders would put our security at risk. But surely there are ways to regulate the border without criminalizing people who are driven by need and good intentions.
+
+If I were raising children in an impoverished third-world community plagued by violence, and if I had a chance to get my family to the U.S., I would take it. I would try to cross a border illegally so my children would get enough to eat and would have a more stable childhood and a chance at a better education and a better career. What parent would sit on their hands and tell themself, “I want to give my child a better life, but oh well. If I don’t have the papers, I guess it would be wrong”?
+
+If most of us, under desperate circumstances, would cross the border without permission and feel no moral qualms about doing so, then we must recognize this crossing as an ethical, reasonable act. If it is ethical and reasonable, then how can either a wall or a detention center be on the side of justice? We must find a policy that treats migrants as we would want to be treated--with empathy, respect, and offers of help.
+"
+
+
+
+
+THOROUGH ASSESSMENT of STRENGTHS AND WEAKNESSES:
+
+==========
+
+RESPONSE:
+
+Mills makes a compelling argument that illegal immigration is not inherently wrong or unethical. She points out that most people would cross a border illegally if they were in desperate circumstances, and argues that we should therefore treat migrants with empathy and respect.
+
+However, there are some weaknesses in Mills' argument. First, she does not fully address the security concerns that come with completely open borders. Second, she does not offer any concrete solutions for how to regulate the border without criminalizing people. These weaknesses make Mills' argument less persuasive overall.
